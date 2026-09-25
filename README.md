@@ -1,3 +1,4 @@
+Simulación Urbana Multimodal con Sistemas Multi-Agente y Algoritmo A*
 Un entorno de simulación computacional avanzado diseñado para modelar, analizar y optimizar el flujo de tráfico multimodal (interacción entre peatones y vehículos) en una red urbana mallada. El sistema utiliza un enfoque basado en Modelado Basado en Agentes (ABM) mediante la librería AgentPy y toma de decisiones de ruta autónomas mediante el algoritmo de búsqueda A*.
 
 📑 Tabla de Contenidos
